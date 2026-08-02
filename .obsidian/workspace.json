@@ -41,10 +41,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -78,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 374.16668701171875
   },
   "right": {
     "id": "5871b209fecd776d",
@@ -174,22 +176,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
     }
   },
-  "active": "ace1f43c2f88366f",
+  "active": "aa3d28a903b675d7",
   "lastOpenFiles": [
+    "_reports/2026-08-02-quiz.md",
+    "数学/高一上/第一章-集合与命题/§1.1-集合及其表示法/集合的概念.md",
+    "数学/高一上/第一章-集合与命题/§1.1-集合及其表示法/集合的表示方法.md",
+    "AGENTS.md",
     "_reports/_template.md",
     "_meta/frontmatter-spec.md",
     "_dashboard/进度总览.md",
-    "数学/高一上/第一章-集合与命题/§1.1-集合及其表示法/集合的表示方法.md",
-    "数学/高一上/第一章-集合与命题/§1.1-集合及其表示法/集合的概念.md",
     "数学/高一上/第一章-集合与命题/§1.6-子集与推出关系/assets/图1-6-数轴示意图.png",
     "数学/高一上/第一章-集合与命题/§1.6-子集与推出关系/assets",
     "数学/高一上/第一章-集合与命题/§1.4-命题的形式及等价关系/命题的形式与逆否命题.md",
@@ -220,7 +224,6 @@
     "数学/高一上/第一章-集合与命题/§1.2-集合之间的关系/子集的定义与性质.md",
     "数学/高一上/第四章-指数函数与对数函数/§4.2-指数函数的图像与性质/assets/图4-7-指数函数图像.png",
     "数学/高一上/第一章-集合与命题/§1.2-子集与推出关系/子集的定义与性质.md",
-    "AGENTS.md",
     "ref/2026-04-19-karpathy-llm-wiki.md",
     "2026-04-19-karpathy-llm-wiki.md",
     "Welcome.md",
