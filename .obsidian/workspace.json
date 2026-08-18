@@ -47,8 +47,7 @@
               "title": "蛋白质和核酸是重要的生物大分子"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AGENTS.md",
+                "file": "textbooks/沪科技生物+必修1【高清教材】.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AGENTS"
+              "title": "反向链接"
             }
           },
           {
@@ -145,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AGENTS.md",
+                "file": "textbooks/沪科技生物+必修1【高清教材】.pdf",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AGENTS"
+              "title": "出链"
             }
           },
           {
@@ -197,7 +196,8 @@
               "title": "Outline of AGENTS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -215,9 +215,12 @@
       "bases:新建数据库": false
     }
   },
-  "active": "55d0f8e5190a7546",
+  "active": "d5bc361e1b1435ee",
   "lastOpenFiles": [
+    "_reports/2026-08-06-1600.md",
+    "生物/必修1/第三章-细胞的结构/§3.2-细胞各部分结构既分工又合作/细胞各部分结构既分工又合作.md",
     "textbooks/沪科技生物+必修1【高清教材】.pdf",
+    "生物/必修1/第二章-细胞的分子组成/§2.2-蛋白质和核酸是重要的生物大分子/蛋白质和核酸是重要的生物大分子.md",
     "生物/必修1/第四章-细胞的代谢/§4.3-细胞通过分解有机分子获取能量/细胞通过分解有机分子获取能量.md",
     "生物/必修1/第四章-细胞的代谢/§4.3-细胞通过分解有机分子获取能量",
     "生物/必修1/第四章-细胞的代谢/§4.2-酶催化细胞的化学反应/酶催化细胞的化学反应.md",
@@ -231,12 +234,10 @@
     "生物/必修1/第四章-细胞的代谢/§4.1-细胞通过质膜与外界进行物质交换/细胞通过质膜与外界进行物质交换.md",
     "生物/必修1/第四章-细胞的代谢/§4.1-细胞通过质膜与外界进行物质交换",
     "生物/必修1/第四章-细胞的代谢",
-    "生物/必修1/第三章-细胞的结构/§3.2-细胞各部分结构既分工又合作/细胞各部分结构既分工又合作.md",
     "生物/必修1/第三章-细胞的结构/§3.1-细胞由质膜包裹/细胞由质膜包裹.md",
     "生物/必修1/第三章-细胞的结构/§3.2-细胞各部分结构既分工又合作",
     "生物/必修1/第三章-细胞的结构/§3.1-细胞由质膜包裹",
     "生物/必修1/第三章-细胞的结构",
-    "生物/必修1/第二章-细胞的分子组成/§2.2-蛋白质和核酸是重要的生物大分子/蛋白质和核酸是重要的生物大分子.md",
     "未命名.base",
     "AGENTS.md",
     "生物/必修1/第二章-细胞的分子组成/§2.4-水和无机盐是生命活动的必需物质/水和无机盐是生命活动的必需物质.md",
