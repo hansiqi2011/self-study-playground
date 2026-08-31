@@ -27,6 +27,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "_dashboard/进度总览.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "进度总览"
+            }
+          },
+          {
+            "id": "95e187b7b74d63a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "_dashboard/三年规划.md",
                 "mode": "source",
                 "source": false
@@ -36,31 +50,17 @@
             }
           },
           {
-            "id": "95e187b7b74d63a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AGENTS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AGENTS"
-            }
-          },
-          {
             "id": "e0560c6d3329c7b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_exams/_template.md",
+                "file": "_dashboard/周记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_template"
+              "title": "周记录"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,20 +246,20 @@
       "bases:新建数据库": false
     }
   },
-  "active": "e0560c6d3329c7b7",
+  "active": "c1f5215061399619",
   "lastOpenFiles": [
-    "_exams/2026-10-07-分班考.md",
-    "_exams/_template.md",
-    "_meta/frontmatter-spec.md",
-    "_dashboard/周记录.md",
+    "_dashboard/考试总览.md",
     "_dashboard/三年规划.md",
     "_reports/_template.md",
+    "AGENTS.md",
+    "_dashboard/周记录.md",
+    "_exams/_template.md",
+    "_exams/2026-10-07-分班考.md",
+    "_meta/frontmatter-spec.md",
     "_dashboard/进度总览.md",
     "_exams",
-    "_dashboard/考试总览.md",
     "_reports/2026-08-21-chem-review-learn.md",
     "_reports/2026-08-28-1600.md",
-    "AGENTS.md",
     "textbooks/沪教版数学必修第二册【高清教材】.pdf",
     "数学/高一上/第三章-幂指数与对数/§3.1-幂与指数/幂与指数.md",
     "数学/高一上/第五章-函数的概念性质及应用/§5.3-函数的应用/函数的应用.md",
