@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9792017d00d4e38a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_dashboard/周记录.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "周记录"
-            }
-          },
-          {
             "id": "95e187b7b74d63a5",
             "type": "leaf",
             "state": {
@@ -49,8 +35,7 @@
               "title": "进度总览"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,13 +203,22 @@
       "bases:新建数据库": false
     }
   },
-  "active": "57bb4ab102d7edd0",
+  "active": "95e187b7b74d63a5",
   "lastOpenFiles": [
-    "AGENTS.md",
+    "未命名.base",
+    "词的基本知识.md",
+    "错题本/数学/2026-08-28-对数不等式漏真数条件.md",
+    "docs/agents/domain.md",
+    "gen-images/gaussian.png",
+    "gen-images/maxwell1.png",
+    "gen-images/taylor.png",
+    "gen-images/quadratic.png",
+    "gen-images/euler.png",
+    "_dashboard/周记录.md",
     "_dashboard/进度总览.md",
+    "AGENTS.md",
     "_dashboard/考试总览.md",
     "_dashboard/三年规划.md",
-    "_dashboard/周记录.md",
     "_reports/_template.md",
     "_exams/2026-10-07-分班考.md",
     "_meta/frontmatter-spec.md",
@@ -242,10 +236,6 @@
     "数学/高一上/第四章-幂函数指数函数与对数函数/第四章-幂函数指数函数与对数函数.md",
     "数学/高一上/第三章-幂指数与对数/第三章-幂指数与对数.md",
     "数学/高一上/第二章-等式与不等式/第二章-等式与不等式.md",
-    "数学/高一上/第一章-集合与命题/§1.1-集合及其表示法/集合的表示方法.md",
-    "数学/高一上/第一章-集合与命题/第一章-集合和命题.md",
-    "第五章-函数的概念性质及应用.md",
-    "_exams/_template.md",
     "_exams",
     "textbooks/沪教版数学必修第二册【高清教材】.pdf",
     "数学/高一上/第五章-函数的概念性质及应用/§5.3-函数的应用",
@@ -256,15 +246,10 @@
     "数学/高一上/第四章-幂函数指数函数与对数函数/§4.3-对数函数",
     "数学/高一上/第四章-幂函数指数函数与对数函数/§4.2-指数函数",
     "数学/高一上/第四章-幂函数指数函数与对数函数/§4.1-幂函数",
-    "gen-images/gaussian.png",
     "数学/高一上/第一章-集合与命题/§1.6-子集与推出关系/assets/图1-6-数轴示意图.png",
     "数学/高一上/第一章-集合与命题/§1.3-集合的运算/assets/图1-4-补集的图示.png",
     "数学/高一上/第一章-集合与命题/§1.3-集合的运算/assets/图1-3-并集的三种情况.png",
     "数学/高一上/第一章-集合与命题/§1.3-集合的运算/assets/图1-2-交集的三种情况.png",
-    "数学/高一上/第一章-集合与命题/§1.3-集合的运算/assets/图1-4-补集文氏图.png",
-    "数学/高一上/第一章-集合与命题/§1.3-集合的运算/assets/图1-3-并集文氏图.png",
-    "数学/高一上/第一章-集合与命题/§1.3-集合的运算/assets/图1-2-交集文氏图.png",
-    "数学/高一上/第一章-集合与命题/§1.2-集合之间的关系/assets/图1-1-文氏图.png",
-    "数学/高一上/第四章-指数函数与对数函数/§4.2-指数函数的图像与性质/assets/图4-7-指数函数图像.png"
+    "数学/高一上/第一章-集合与命题/§1.3-集合的运算/assets/图1-4-补集文氏图.png"
   ]
 }
