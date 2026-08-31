@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_dashboard/三年规划.md",
+                "file": "AGENTS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "三年规划"
+              "title": "AGENTS"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,14 +218,16 @@
       "bases:新建数据库": false
     }
   },
-  "active": "95e187b7b74d63a5",
+  "active": "57bb4ab102d7edd0",
   "lastOpenFiles": [
+    "AGENTS.md",
+    "_dashboard/进度总览.md",
+    "_dashboard/考试总览.md",
+    "_dashboard/三年规划.md",
     "_dashboard/周记录.md",
     "_reports/_template.md",
-    "_dashboard/三年规划.md",
     "_exams/2026-10-07-分班考.md",
     "_meta/frontmatter-spec.md",
-    "_dashboard/进度总览.md",
     "生物/必修1/第四章-细胞的代谢/第四章-细胞的代谢.md",
     "生物/必修1/第三章-细胞的结构/第三章-细胞的结构.md",
     "生物/必修1/第二章-细胞的分子组成/第二章-细胞的分子组成.md",
@@ -244,8 +246,6 @@
     "数学/高一上/第一章-集合与命题/第一章-集合和命题.md",
     "第五章-函数的概念性质及应用.md",
     "_exams/_template.md",
-    "地理/必修第一册/第二章-地球上的大气/§2.1-大气的组成和垂直分层/大气的垂直分层.md",
-    "_dashboard/考试总览.md",
     "_exams",
     "textbooks/沪教版数学必修第二册【高清教材】.pdf",
     "数学/高一上/第五章-函数的概念性质及应用/§5.3-函数的应用",
