@@ -360,7 +360,12 @@ duration_approx: 30min
 
 ## 进度总览页
 
-Agent 维护 `_dashboard/进度总览.md`，每次 session 后更新。
+Agent 维护 `_dashboard/进度总览.md`，在以下时机更新：
+- **复习模式**结束时（mastery 因答对/答错变更）
+- **学新模式**结束时（新知识点 mastery 从 0 → 0.3）
+- **考试模式**中模拟测试判分后（mastery 可能变更）
+- **分析考试模式**中调整复习优先级后（如有 mastery 变更）
+- **Ingest 模式**完成后（新增知识点，已学习/总数变化）
 
 **表格列定义：**
 
